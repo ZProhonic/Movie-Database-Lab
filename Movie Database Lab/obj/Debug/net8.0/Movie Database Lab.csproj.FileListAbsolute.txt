@@ -1,0 +1,15 @@
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.exe
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.deps.json
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.runtimeconfig.json
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.dll
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.pdb
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.AssemblyInfoInputs.cache
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.AssemblyInfo.cs
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.sourcelink.json
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.dll
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\refint\Movie Database Lab.dll
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.pdb
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.genruntimeconfig.cache
+C:\Users\zackp\source\repos\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\ref\Movie Database Lab.dll
